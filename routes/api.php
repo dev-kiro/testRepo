@@ -35,3 +35,7 @@ Route::get('/centros-sistrat/{id}', [SistratController::class, 'traerDatosCentro
 
 
 https://apidev.senda.gob.cl/api/sidoc/user/aquiroz@senda.gob.cl
+
+/**
+ * esto es del dev 2 y quiero subirlo y hacer match 
+ */
