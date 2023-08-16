@@ -34,4 +34,8 @@ Route::get('/sidoc/sdoc/{sdoc}/{ano}', [documentosController::class, 'traerDocum
 Route::get('/centros-sistrat/{id}', [SistratController::class, 'traerDatosCentroId']);
 
 
-https://apidev.senda.gob.cl/api/sidoc/user/aquiroz@senda.gob.cl
+//https://apidev.senda.gob.cl/api/sidoc/user/aquiroz@senda.gob.cl
+// este cambio es el dia miercoles haciendo nuevas pruebas
+// este es otro cambio    
+// este es otro cambio     
+// este es otro cambio    
